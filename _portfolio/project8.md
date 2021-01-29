@@ -440,7 +440,7 @@ g.add_legend()
 
 
     
-![009](/assets/img/project8/output_8_0.png)
+![](/assets/img/output_8_0.png)
     
 
 

@@ -415,9 +415,7 @@ plt.show()
 ```
 
 
-    
-image:https://github.com/manisatya009/009/blob/master/assets/img/project8/output_8_0.png
-    
+
 
 
 
@@ -450,8 +448,8 @@ g = sns.FacetGrid(data, col="Gender")
 g.map(plt.scatter, "Annual Income (INR)", "Spending Score (1-100)", alpha=.7)
 g.add_legend()
 
-## similar spending tends in M/F w.r.t income
-## around a Income of 50 we see less variation in spending behaviour
+##similar spending tends in M/F w.r.t income
+##around a Income of 50 we see less variation in spending behaviour
 ```
 
 
@@ -464,7 +462,7 @@ g.add_legend()
 
 
     
-![](/assets/img/project8/output_8_0.png)
+![](/assets/img/project8/output_9_1.png)
     
 
 

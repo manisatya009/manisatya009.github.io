@@ -1,0 +1,16 @@
+nav:
+  - title: "Intrests"
+    section: services
+
+  - title: "Portfolio"
+    section: portfolio
+    
+  - title: "About"
+    section: timeline
+
+  - title: "Live Projects"
+    section: team
+
+  - title: "Skills"
+    section: clients
+

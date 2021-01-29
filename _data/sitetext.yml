@@ -28,7 +28,6 @@ portfolio:
 
 timeline:
     title: "About"
-    #text: "Click <strong> Here </strong> for Detailed Schedule"
     text: "My Journey"
     section: timeline
     events:
@@ -41,7 +40,6 @@ timeline:
       - title: "International Institute of Digital Technologies"
         year: " Jan 2018 - Nov 2018"
         desc: "Diploma in Business Analytics"
-        #desc: "<p>Dr. Sriparna Saha, IIT Patna - Health Analytics</p> <p>Ankur Sood, Director, Samsung - Healthcare </p> <p> Bappa Mondal, Samsung Technical Team Lead - Mobile Security, Healthcare </p>"
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
@@ -88,7 +86,6 @@ team:
     people:
       - name: "Pay as Guest"
         role: "Payment Platform"
-        #role: "<h6>Cheif Patron </h6> Honourable Vice Chancellor, Delhi Technological University"
         image: assets/img/team/1.jpg
         social:
           - url: https://amazon.syf.com/login/

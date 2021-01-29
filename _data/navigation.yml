@@ -14,5 +14,8 @@ nav:
   - title: "Skills"
     section: clients
 
-  - title:"contact"
+  - title: "contact"
     section:contact
+
+  - title: "Learnings"
+    url: "/stream"

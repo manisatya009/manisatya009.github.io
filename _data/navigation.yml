@@ -14,5 +14,10 @@ nav:
   - title: "Skills"
     section: clients
 
+<<<<<<< HEAD
   - title: "Learnings"
     url: "/stream"
+=======
+  - title:"contact"
+    section:contact
+>>>>>>> parent of ba88b5a... 66

@@ -3,7 +3,20 @@ layout: page
 title: My Learnings
 background: grey
 ---
-![](/assets/img/nslogo2.png)
+![](/assets/img/999.jpg)
+
+# Monte Carlo Simulation
+------------
+##### Similar Tehcnique is used by me for predicting the number employees requeried for next year 
+
+
+<br>
+
+### Click on link to download document
+
+<a href = "https://github.com/manisatya009/manisatya009.github.io/blob/master/1%20Mg%20Mall.md"> click to read </a>
+
+
 # Youtube Stream
 ------------
 ##### These sessions were recorded in my Pg Diploma course

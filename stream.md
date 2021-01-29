@@ -14,7 +14,7 @@ background: grey
 
 ### Click on link to download document
 
-<a href = "https://github.com/manisatya009/manisatya009.github.io/blob/master/1%20Mg%20Mall.md"> click to read </a>
+<a href = "https://github.com/manisatya009/manisatya009.github.io/blob/master/1mall.html"> click to read </a>
 
 
 # Youtube Stream

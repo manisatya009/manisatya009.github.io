@@ -81,7 +81,7 @@ clients:
 team:
     title: " Live Projects"
     text: "Synchrony"
-    subtext:  "**Projects** which are in Live."
+    subtext:  " For the above Projects I have Built **Enterprise Level Reporting** "
     section: team
     people:
       - name: "Pay as Guest"

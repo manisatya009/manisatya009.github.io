@@ -81,7 +81,7 @@ clients:
 team:
     title: " Live Projects"
     text: "Synchrony"
-    subtext:  "**Markdown** supported."
+    subtext:  "**Projects** which are in Live."
     section: team
     people:
       - name: "Pay as Guest"
@@ -102,7 +102,7 @@ team:
         role: "Campagin Analysis"
         image: assets/img/team/3.jpg
         social:
-          - url: https://twitter.com
+          - url: https://www.samsclub.com/content/scan-and-go
             icon : fas fa-link
 
 contact:

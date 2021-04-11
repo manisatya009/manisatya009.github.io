@@ -1,15 +1,15 @@
 ---
-title: Linear Regression
-subtitle: Linear Regression to produce results
+title: Activate Card Online
+subtitle: This Product Allows Users to Activate their Credit Card without Reaching out to Customer Service
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Activate Card
+  subtitle: Digital Product
+  thumbnail: assets/img/timeline/Activate_Card.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+This is an initiative launched for Sam's Portfolio  ** url: https://amazon.syf.com/login/**
 
 {:.list-inline}
 - Date: January 2017

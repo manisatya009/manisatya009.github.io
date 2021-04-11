@@ -7,7 +7,7 @@ alt: Shirts on a hanger
 caption:
   title: Activate Card
   subtitle: Digital Product
-  thumbnail: assets/img/timeline/Activate_Card.jpg
+  thumbnail: https://github.com/manisatya009/manisatya009.github.io/blob/master/assets/img/portfolio/Activate%20Card.JPG
 ---
 This is an initiative launched for Sam's Portfolio  ** url: https://amazon.syf.com/login/**
 

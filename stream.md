@@ -17,6 +17,14 @@ background: grey
 <a href = "https://github.com/manisatya009/manisatya009.github.io/blob/master/1mall.html"> click to read </a>
 
 
+# SQL Learnings
+    text: "Click <strong> Here </strong> for Detailed Schedule"
+    section: timeline
+    link: /schedule
+
+
+
+
 # Youtube Stream
 ------------
 ##### These sessions were recorded in my Pg Diploma course

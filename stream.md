@@ -14,15 +14,11 @@ background: grey
 
 ### Click on link to download document
 
-<a href = "https://github.com/manisatya009/manisatya009.github.io/blob/master/1mall.html"> click to read </a>
+<a href = "1MgMall.md"> click to read </a>
 
 
 # SQL Learnings
-    text: "Click <strong> Here </strong> for Detailed Schedule"
-    section: timeline
-    link: /schedule
-
-
+ 
 
 
 # Youtube Stream

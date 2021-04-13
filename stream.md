@@ -5,20 +5,16 @@ background: grey
 ---
 ![](/assets/img/999.jpg)
 
-# Tips & Tricks I use in sql my day to day Usage
+# SQL
 ------------
-
-
+##### 
 <br>
-
-### My Sql Learnings for day to day use
-
-<a href = "1MgMall.md"> click to read </a>
-
-
-# SQL Learnings
+### 
+##<a href = "1MgMall.md"> click to read </a>
  
-<a href = "2021_practise.html"> click to read </a>
+<a href = "2021_practise.html"> Case When Use Cases </a>
+
+<a href = "2021_practise.html"> Window Commands </a>
 
 <a href = "2021_practise.md"> Learnings in 2021 </a>
 

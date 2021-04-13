@@ -16,7 +16,7 @@ background: grey
 
 # Youtube Stream
 ------------
-##### These sessions were recorded in my Pg Diploma course
+##### These sessions were recorded as a part of my Analytics course
 
 <br>
 

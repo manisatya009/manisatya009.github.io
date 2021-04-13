@@ -7,10 +7,6 @@ background: grey
 
 # SQL
 ------------
-##### 
-<br>
-### 
-##<a href = "1MgMall.md"> click to read </a>
  
 <a href = "2021_practise.html"> Case When Use Cases </a>
 

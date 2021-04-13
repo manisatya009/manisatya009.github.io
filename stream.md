@@ -18,7 +18,7 @@ background: grey
 
 # SQL Learnings
  
-<a href = "schedule.md"> click to read </a>
+<a href = "2021_practise.html"> click to read </a>
 
 <a href = "2021_practise.md"> Learnings in 2021 </a>
 

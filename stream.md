@@ -18,7 +18,7 @@ background: grey
 
 # SQL Learnings
  
-<a href = "awad.md"> click to read </a>
+<a href = "award.md"> click to read </a>
 
 
 # Youtube Stream

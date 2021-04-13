@@ -5,20 +5,20 @@ background: grey
 ---
 ![](/assets/img/999.jpg)
 
-# Monte Carlo Simulation
+# Tips & Tricks I use in sql my day to day Usage
 ------------
-##### Similar Tehcnique is used by me for predicting the number employees requeried for next year 
 
 
 <br>
 
-### Click on link to download document
+### My Sql Learnings for day to day use
 
 <a href = "1MgMall.md"> click to read </a>
 
 
 # SQL Learnings
  
+<a href = "awad.md"> click to read </a>
 
 
 # Youtube Stream

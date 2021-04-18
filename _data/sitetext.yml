@@ -28,7 +28,6 @@ portfolio:
 
 timeline:
     title: "My Journey" 
-    text: ""
     section: timeline
     events:
       - title: "Amrita University"

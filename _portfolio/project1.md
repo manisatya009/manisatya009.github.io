@@ -7,7 +7,7 @@ alt:
 caption:
   title: Activate Card
   subtitle: This Product Allows User to Activate the Card Online
-  thumbnail: assets/img/portfolio/01-thubnail.jpg
+  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 

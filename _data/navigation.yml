@@ -25,6 +25,8 @@ en: &DEFAULT_EN
       section: contact
     - title: "Learnings"
       url: "/stream"
+    - title: "Award1"
+      url: "/Award"
 
 
 # Spanish

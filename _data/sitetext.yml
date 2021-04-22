@@ -16,6 +16,12 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#Profile"
 
+      Profile:
+    title: "Profile"
+    text: "Problem Solving with Data"
+    section: services
+  
+
   services:
     title: "Intrests"
     text: "Problem Solving with Data"

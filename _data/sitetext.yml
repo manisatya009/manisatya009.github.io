@@ -35,7 +35,7 @@ en: &DEFAULT_EN
   team:
     title: " Live Projects"
     text: "Synchrony"
-    subtext:  " For the above Projects I have Built **Enterprise Level Reporting** "
+    subtext:  " For the above Projects I have Built **Enterprise Level Reporting**  and provided strategic insights"
     section: team
     people:
       - name: "Pay as Guest"

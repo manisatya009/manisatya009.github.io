@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
- services:
+  services:
     title: "Intrests"
     text: "Problem Solving with Data"
     section: services

@@ -66,31 +66,6 @@ en: &DEFAULT_EN
   
     end: "Be Part <br> of Our <br> my future!"
 
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "Python"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/1.jpg
-      - title: "sas"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/2.jpg
-      - title: "Tableau"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/3.jpg
-      - title: "Sql"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/4.jpg
-      - title: "Adobe Anlaytics"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/5.jpg
-      - title: "Google Anlaytics"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/6.jpg
-
   team:
     title: " Live Projects"
     text: "Synchrony"
@@ -117,6 +92,31 @@ en: &DEFAULT_EN
         social:
           - url: https://www.samsclub.com/content/scan-and-go
             icon : fas fa-link
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "Python"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/1.jpg
+      - title: "sas"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/2.jpg
+      - title: "Tableau"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/3.jpg
+      - title: "Sql"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/4.jpg
+      - title: "Adobe Anlaytics"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/5.jpg
+      - title: "Google Anlaytics"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/6.jpg
+
 
   contact:
     title: "Contact Me"

@@ -16,6 +16,8 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#Profile"
 
+text: "Data Science Practitioner with 2+ years of Experience in Mareting & Product Analytics"
+
   services:
     title: "Intrests"
     text: "Problem Solving with Data"
@@ -30,7 +32,7 @@ en: &DEFAULT_EN
       - title: "Applied Machine Learning"
         desc: "Linear,Logistic,Decision Tree,Tests"
         icon: fas fa-laptop-code
-    text: "Data Science Practitioner with 2+ years of Experience in Mareting & Product Analytics"
+
 
   portfolio:
     title: "Portfolio"

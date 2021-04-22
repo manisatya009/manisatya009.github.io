@@ -111,8 +111,8 @@ en: &DEFAULT_EN
             icon : fas fa-link
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact Me"
+    text: "call or leave a message at 9000818385"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

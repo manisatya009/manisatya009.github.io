@@ -19,6 +19,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Live Projects"
       section: team
+    - title: "Skills"
+      section: clients
     - title: "Contact"
       section: contact
     - title: "Learnings"

@@ -65,26 +65,23 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> my future!"
 
 
-clients:
+  clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "sql"
-        #url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/1.jpg
-      - title: "1"
-        #url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/2.jpg
-      - title: "2"
-        #url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/3.jpg
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
       - title: "Creative Market"
-        #url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/4.jpg
-      - title: "Creative Market"
-        #url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/5.jpg
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: " Live Projects"
@@ -114,8 +111,8 @@ clients:
             icon : fas fa-link
 
   contact:
-    title: "Contact Me"
-    text: "Call or Leave a message at 9000818385"
+    title: "Contact Us"
+    text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

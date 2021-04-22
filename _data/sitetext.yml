@@ -31,9 +31,9 @@ en: &DEFAULT_EN
         desc: "Linear,Logistic,Decision Tree,Tests"
         icon: fas fa-laptop-code
 
-portfolio:
+  portfolio:
     title: "Portfolio"
-    text: "My Projects"
+    text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
 
@@ -44,10 +44,10 @@ portfolio:
     # left is the default
     #start_align: "left"
     events:
-      - title: "Amrita University"
-        year: "Jun 2013 - Jun 2017"
-        desc: "Bachelors in Mechanical Engineering"
-        image: assets/img/timeline/amrita33.jpg
+      - title: "Our Humble Beginnings"
+        year: "2009-2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/1.jpg
         alt:
       - title: "An Agency is Born"
         year: "March 2011"

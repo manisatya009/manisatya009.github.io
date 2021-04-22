@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Welcome to my Portfolio!
     text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#Profile"
+    button: Data Science Practitioner
+    buttonlink: "#Services"
   
 
   services:

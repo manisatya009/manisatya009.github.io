@@ -73,10 +73,10 @@ clients:
       - title: "sql"
         #url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/1.jpg
-      - title: "designmodo"
+      - title: "1"
         #url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/2.jpg
-      - title: "themeforest"
+      - title: "2"
         #url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/3.jpg
       - title: "Creative Market"
@@ -114,8 +114,8 @@ clients:
             icon : fas fa-link
 
   contact:
-    title: "Contact Us"
-    text: "9000"
+    title: "Contact Me"
+    text: "Call or Leave a message at 9000818385"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

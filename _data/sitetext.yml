@@ -74,18 +74,24 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "Python"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+        logo: assets/img/clients/1.jpg
+      - title: "sas"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
+        logo: assets/img/clients/2.jpg
+      - title: "Tableau"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
+        logo: assets/img/clients/3.jpg
+      - title: "Sql"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/4.jpg
+      - title: "Adobe Anlaytics"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/5.jpg
+      - title: "Google Anlaytics"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/6.jpg
 
   team:
     title: "OUR AMAZING TEAM"

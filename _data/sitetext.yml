@@ -15,11 +15,6 @@ en: &DEFAULT_EN
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#Profile"
-
-      Profile:
-    title: "Profile"
-    text: "Problem Solving with Data"
-    section: services
   
 
   services:

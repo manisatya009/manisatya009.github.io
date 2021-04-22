@@ -39,6 +39,33 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
+  team:
+    title: " Live Projects"
+    text: "Synchrony"
+    subtext:  " For the above Projects I have Built **Enterprise Level Reporting** "
+    section: team
+    people:
+      - name: "Pay as Guest"
+        role: "Payment Platform"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://amazon.syf.com/login/
+            icon : fas fa-link
+
+      - name: "Ebill Flip Campagin"
+        role: "Strategy Building"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com
+            icon : fas fa-link
+
+      - name: "Scan & Go"
+        role: "Campagin Analysis"
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://www.samsclub.com/content/scan-and-go
+            icon : fas fa-link
+
   timeline:
     title: "Journey"
     text: ""
@@ -66,32 +93,6 @@ en: &DEFAULT_EN
   
     end: "Be Part <br> of Our <br> my future!"
 
-  team:
-    title: " Live Projects"
-    text: "Synchrony"
-    subtext:  " For the above Projects I have Built **Enterprise Level Reporting** "
-    section: team
-    people:
-      - name: "Pay as Guest"
-        role: "Payment Platform"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://amazon.syf.com/login/
-            icon : fas fa-link
-
-      - name: "Ebill Flip Campagin"
-        role: "Strategy Building"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon : fas fa-link
-
-      - name: "Scan & Go"
-        role: "Campagin Analysis"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://www.samsclub.com/content/scan-and-go
-            icon : fas fa-link
 
   clients:
     section: clients

@@ -96,7 +96,7 @@ en: &DEFAULT_EN
   team:
     title: " Live Projects"
     text: "Synchrony"
-    subtext:  " For the above Projects I have Built **Enterprise Level Reporting**  and **Provided strategic insights** "
+    subtext:  " For the above Projects I had done **Enterprise Level Analysis**  and **Provided strategic insights** "
     section: team
     people:
       - name: "Pay as Guest"
@@ -121,8 +121,8 @@ en: &DEFAULT_EN
             icon : fas fa-link
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact Me"
+    text: "call or leave a message at 9000818385"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

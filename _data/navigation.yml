@@ -23,6 +23,8 @@ en: &DEFAULT_EN
       section: contact
     - title: "Learnings"
       url: "/stream"
+    - title: "Award"
+      url: "/Awards333"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

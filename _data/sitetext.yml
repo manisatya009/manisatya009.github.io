@@ -16,16 +16,6 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#Profile"
 
-services:
-    title: "Profile"
-    text: "Data Science Practitioner with 2+ years of Experience in Marketing & Product Analytics"
-    # title: "Presented By"
-    section: Profile
-      # - title: "[Samsung Digital Academy Research Lab](https://www.samsung.com/in/)"
-      #   desc: ""
-      #   icon: /assets/img/samsunglogo.png
-
-
   services:
     title: "Intrests"
     text: "Problem Solving with Data"

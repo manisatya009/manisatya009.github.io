@@ -16,20 +16,20 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
+ services:
+    title: "Intrests"
+    text: "Problem Solving with Data"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Product Analytics"
+        desc: "Performance Measurement of Product & Reporting"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Marketing Analytics"
+        desc: "Campagin Measurement "
+        icon: fas fa-ad       
+      - title: "Applied Machine Learning"
+        desc: "Linear,Logistic,Decision Tree,Tests"
+        icon: fas fa-laptop-code
 
   portfolio:
     title: "Portfolio"

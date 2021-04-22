@@ -25,7 +25,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Contact"
       section: contact
-
+    - title: "Awards"
+      url: "/Awards333.html"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

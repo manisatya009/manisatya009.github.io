@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-  - title: "Intrests"
-    section: services
+    - title: "Services"
+      section: services
     - title: "Portfolio"
       section: portfolio
     - title: "About"

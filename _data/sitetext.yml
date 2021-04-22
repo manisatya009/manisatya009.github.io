@@ -65,23 +65,26 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> my future!"
 
 
-  clients:
+clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+      - title: "sql"
+        #url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/1.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+        #url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/2.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
+        #url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/3.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        #url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/4.jpg
+      - title: "Creative Market"
+        #url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/5.jpg
 
   team:
     title: " Live Projects"

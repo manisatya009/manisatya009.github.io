@@ -14,7 +14,17 @@ en: &DEFAULT_EN
     title: Welcome to my Portfolio!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#Profile"
+
+services:
+    title: "Profile"
+    text: "Data Science Practitioner with 2+ years of Experience in Marketing & Product Analytics"
+    # title: "Presented By"
+    section: Profile
+      # - title: "[Samsung Digital Academy Research Lab](https://www.samsung.com/in/)"
+      #   desc: ""
+      #   icon: /assets/img/samsunglogo.png
+
 
   services:
     title: "Intrests"

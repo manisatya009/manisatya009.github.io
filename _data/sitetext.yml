@@ -31,9 +31,9 @@ en: &DEFAULT_EN
         desc: "Linear,Logistic,Decision Tree,Tests"
         icon: fas fa-laptop-code
 
-  portfolio:
+portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "My Projects"
     section: portfolio
     closebutton: "Close Project"
 

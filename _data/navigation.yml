@@ -19,6 +19,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
+    - title: "Awards"
+      section: "/Award"
     - title: "Contact"
       section: contact
     - title: "Theme Source"

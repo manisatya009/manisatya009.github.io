@@ -110,10 +110,20 @@ en: &DEFAULT_EN
           - url: https://www.samsclub.com/content/scan-and-go
             icon : fas fa-link
 
-contact:
-    title: "Contact me"
-    text: "call 9000818385 or leave a message"
-    section: contact  
+  contact:
+    title: "Contact Us"
+    text: "9000"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
 
 footer:
     legal: "Privacy Policy"

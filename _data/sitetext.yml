@@ -138,12 +138,14 @@ en: &DEFAULT_EN
   footer:
     legal: "Política de Privacidad"
     social:
-      - #url: https://twitter.com
-        #icon: "fab fa-twitter"
-      - url: https://www.linkedin.com/in/manikanta-maddimsetti/
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/manisatya009
+      - url: https://github.com/raviriley/agency-jekyll-theme
         icon: "fab fa-github"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

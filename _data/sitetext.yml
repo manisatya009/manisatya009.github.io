@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Journey"
-    text: "Lorem ipsum timeline"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
@@ -110,31 +110,19 @@ en: &DEFAULT_EN
           - url: https://www.samsclub.com/content/scan-and-go
             icon : fas fa-link
 
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+contact:
+    title: "Contact me"
+    text: "call 9000818385 or leave a message"
+    section: contact  
 
-  footer:
+footer:
     legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
+    social: 
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://in.linkedin.com/in/manikanta-maddimsetti
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/manisatya009
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"

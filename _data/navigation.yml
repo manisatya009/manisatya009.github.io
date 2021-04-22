@@ -15,16 +15,17 @@ en: &DEFAULT_EN
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "Journey"
-      section: timeline
+    - title: "Learnings"
+      url: "/stream"
     - title: "Live Projects"
       section: team
     - title: "Skills"
       section: clients
-    - title: "Learnings"
-      url: "/stream"
+    - title: "Journey"
+      section: timeline
     - title: "Contact"
       section: contact
+
 
 en-US:
   <<: *DEFAULT_EN

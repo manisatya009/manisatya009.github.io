@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     - title: "Team"
       section: team
     - title: "Awards"
-      section: "/Award"
+      url: "/Award"
     - title: "Contact"
       section: contact
     - title: "Theme Source"

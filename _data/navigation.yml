@@ -26,7 +26,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "Awards"
-      url: "/Awards333"
+      <a href = "Awards333.html"> Window Commands </a>
 en-US:
   <<: *DEFAULT_EN
 en-CA:

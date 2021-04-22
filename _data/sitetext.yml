@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Intrests"
     text: "Problem Solving with Data"
     section: services
     list:
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "About"
+    title: "Journey"
     text: ""
     section: timeline
     # left is the default

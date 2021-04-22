@@ -25,8 +25,8 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Contact"
       section: contact
-    - title: "/Award"
-      <a href = "Awards333.html"> Window Commands </a>
+    - title: "Awards"
+      url: "/Award"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

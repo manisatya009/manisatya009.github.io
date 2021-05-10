@@ -1,10 +1,10 @@
 ---
-title: Prediction of Workstation Employees
-subtitle: Montecarlo Simulation
+title: Application Remediation
+subtitle: App Analytics
 alt: 
 
 caption:
-  title: App Remediation 
+  title: Application Remediation 
   subtitle: App Analytics
   thumbnail: assets/img/portfolio/sypi.jpg
 ---

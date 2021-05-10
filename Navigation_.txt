@@ -1,0 +1,18 @@
+en: &DEFAULT_EN
+  nav:
+    - title: ""Awards""
+      url: "/Awards333"
+    - title: "Intrests"
+      section: services
+    - title: "Portfolio"
+      section: portfolio
+    - title: "Journey"
+      section: timeline
+    - title: "Live Projects"
+      section: team
+    - title: "Contact"
+      section: contact
+    - title: "Learnings"
+      url: "/stream"
+    - title: "Awards"
+      url: "/Awards333"

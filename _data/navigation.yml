@@ -11,20 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Intrests"
-      section: services
+    - title: ""Awards""
+      url: "/Awards333"
     - title: "Portfolio"
       section: portfolio
-    - title: "Journey"
-      section: timeline
     - title: "Live Projects"
       section: team
-    - title: "Contact"
-      section: contact
     - title: "Learnings"
       url: "/stream"
-    - title: "Awards"
-      url: "/Awards333"
 en-US:
   <<: *DEFAULT_EN
 en-CA:

@@ -1,18 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-full.jpg
+title: E-statement Redesign 
+subtitle: Performance Measurement & Impact
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: E-statement Redesign 
+  subtitle: Performance Measurement
+  thumbnail: assets/img/portfolio/statement.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+ **Business Problem** : One of the Portfolio Wanted to redesign thier E-Statment to Increase the Digital Adoption by emphasizing on Digital Options for Customer. 
 
-{:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+ * Method Used  : This is a blanket design on entire portfolio, so did pre and post analysis on the various Digital Metrics and change in their behaviour on various profiles of the customers
+
+ 
 

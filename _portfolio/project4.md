@@ -1,18 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
+title: Pay as Guest 
+subtitle: Product Analytics
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Pay as Guest 
+  subtitle: Product Analytics
+  thumbnail: assets/img/portfolio/product.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+ **Business Problem** : Pay as guest is a digital Product Launhced by Synchrony on Servicing Website and Wanted the understand the perfomance and its impact 
 
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+ * Method Used * : Supported the End to End Analytics from deployment to Measurement Strategy. Analyzed the post 30-60-90 behviour of the customer and Created various profiles of Users and Measured the behviour change on the Digital Platform
+
+ 
 

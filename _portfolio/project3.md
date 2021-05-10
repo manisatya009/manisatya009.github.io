@@ -1,18 +1,14 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
+title: Apply Platform Performance 
+subtitle: A/B testing and T test
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
+  title: Apply Platform Performance
+  subtitle: A/B testing 
+  thumbnail: assets/img/portfolio/abtest.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+ ** Business Problem ** :  To increase the completion Rate of Application. Synchrony experiments various improvements ,changes on the UI and also incorporates 3rd party applications like  Payfone
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+ ** Method Used ** : Anlayzed the Completion rates for various experiments and suggested the best UI placement which linked to optimal performance of the Payfone Application
 

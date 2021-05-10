@@ -4,7 +4,7 @@ subtitle: Montecarlo Simulation
 alt: 
 
 caption:
-  title: Predicting of Workstation Employees
+  title: Prediction  of Workstation Employees
   subtitle: Montecarlo Simulation
   thumbnail: assets/img/portfolio/monte33.jpg
 ---

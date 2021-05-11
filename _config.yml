@@ -21,9 +21,9 @@ title      : Manikanta Maddimsetti
 email      : manisatya009@gmail.com #this is also the email contact forms will go to
 description: "Manikanta Portfolio"
 author     : Manikanta Maddimsetti
- #logo:     #optional, defaults to site title
+ logo:     #optional, defaults to site title
    path: assets\img\mani\myimage.jpg
-  height: 60 #height in px, defaults to 52px
+  #height: 60 height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
